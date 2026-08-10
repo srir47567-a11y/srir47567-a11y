@@ -1,14 +1,11 @@
-# 💫 About Me:
-
-<sub>
 Hi, I'm Ram 👋<br><br>
 🎓 B.Tech Information Technology undergraduate at Loyola Institute of Technology, Chennai<br>
 💻 Skilled in SQL, Python, and database design<br>
 🔧 Internship experience at Linz Technologies (Zoho Developer) and Schneider Electric India Pvt LTD<br>
 📂 Actively building recruiter-ready projects: Blood Donation Management System with maps, Agentic AI, Graph Database<br>
 🚀 Passionate about algorithms, debugging, and creating impactful tech solutions<br><br>
-📫 Reach me at: <a href="https://www.linkedin.com/in/ramanujam05">LinkedIn</a> | <a href="mailto:lookzmaxz@gmail.com">Email</a>
-</sub>
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ramanujam05) | [Email](mailto:lookzmaxz@gmail.com)
+
 
 
 ## 🌐 Socials:
