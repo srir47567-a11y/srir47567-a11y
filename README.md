@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⚡ Code. Break. Debug. Repeat.
 
 Hi, I'm Ram 👋<br><br>
 🎓 B.Tech Information Technology undergraduate at Loyola Institute of Technology, Chennai<br>
