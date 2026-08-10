@@ -36,4 +36,4 @@ Hi, I'm Ram 👋<br><br>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/srir47567-a11y/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/srir47567-a11y?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/srir47567-a11y)
