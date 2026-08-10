@@ -32,16 +32,8 @@ Hi, I'm Ram 👋<br><br>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=srir47567-a11y&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 🧩 LeetCode:
+# 🧩 LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/srir47567-a11y/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/srir47567-a11y?theme=dark&ext=heatmap)
-
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=srir47567-a11y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-[![](https://komarev.com/ghpvc/?username=srir47567-a11y&icon=0&color=0)](https://visitcount.itsvg.in)
